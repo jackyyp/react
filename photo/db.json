@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Gigachad",
+      "id": 69
+    },
+    {
+      "name": "Sheldon Quigley",
+      "id": 2
+    },
+    {
+      "name": "Taylor Runolfsson",
+      "id": 70
+    }
+  ],
+  "albums": [
+    {
+      "userId": 69,
+      "title": "Recycled Granite Towels",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Concrete Chips",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Concrete Tuna",
+      "id": 17
+    },
+    {
+      "userId": 69,
+      "title": "Sleek Soft Shirt",
+      "id": 19
+    },
+    {
+      "userId": 69,
+      "title": "Tasty Plastic Fish",
+      "id": 23
+    },
+    {
+      "userId": 69,
+      "title": "Unbranded Fresh Bacon",
+      "id": 25
+    },
+    {
+      "userId": 69,
+      "title": "Handcrafted Soft Hat",
+      "id": 26
+    },
+    {
+      "userId": 69,
+      "title": "Practical Granite Shoes",
+      "id": 27
+    }
+  ],
+  "photos": []
+}

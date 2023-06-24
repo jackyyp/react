@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* svg is format of icons */
+button > svg {
+  margin-right: 5px;
+}
