@@ -1,0 +1,27 @@
+[submodule "animals"]
+	path = animals
+	url = ./animals
+[submodule "books"]
+	path = books
+	url = ./books
+[submodule "cars"]
+	path = cars
+	url = ./cars
+[submodule "comps"]
+	path = comps
+	url = ./comps
+[submodule "jsx"]
+	path = jsx
+	url = ./jsx
+[submodule "pdas"]
+	path = pdas
+	url = ./pdas
+[submodule "photo"]
+	path = photo
+	url = ./photo
+[submodule "pics"]
+	path = pics
+	url = ./pics
+[submodule "redux"]
+	path = redux
+	url = ./redux
